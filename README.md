@@ -1,3 +1,5 @@
+# github page
+you can view page live at following URL: https://gigagiorgadze.github.io/Order-summary-card/
 # Frontend Mentor - Order summary card
 
 ![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
